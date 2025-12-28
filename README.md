@@ -1,5 +1,4 @@
-Hi, I'm Asmaa 👋  
-Computer Engineering student at AUC
+Hi, I'm Asmaa, a Computer Engineering student at AUC
 
 **🛠 Tech Stack**
 - Languages: C++, Python, Verilog  
