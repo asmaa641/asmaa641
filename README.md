@@ -1,7 +1,7 @@
 Hi, I'm Asmaa, a Computer Engineering student at AUC
 
 **🛠 Tech Stack**
-- Languages: C++, Python, Verilog  
+- Languages: C++, Python, JavaScript, Verilog  
 - Frontend: React, Next.js, HTML, CSS, Tailwind CSS  
 - Tools & Concepts: Git, Qt, Data Structures & Algorithms, Digital Design  
 
