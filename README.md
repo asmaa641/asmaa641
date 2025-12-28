@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Asmaa 👋  
+I am currently a Computer Engineering student at AUC
 
-<!--
-**asmaa641/asmaa641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+- Languages: C++, Python, Verilog
+- Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+- Tools & Concepts: Git, Qt, Data Structures & Algorithms, Digital Design
 
-Here are some ideas to get you started:
+📌 Featured Projects:
+- Sudoku Solver (Backtracking)
+- Quine–McCluskey Logic Minimizer
+- Qt-based Note-Taking App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interests:
+AI, Embedded Systems, Cybersecurity
