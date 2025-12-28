@@ -12,4 +12,4 @@ I am currently a Computer Engineering student at AUC
 - Qt-based Note-Taking App
 
 🎯 Interests:
-AI, Embedded Systems, Cybersecurity
+Building logic-driven projects across hardware and software
