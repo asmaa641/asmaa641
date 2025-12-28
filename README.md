@@ -9,7 +9,6 @@ Computer Engineering student at AUC
 **📌 Featured Projects**
 - Sudoku Solver (Backtracking)  
 - Quine–McCluskey Logic Minimizer  
-- Qt-based Note-Taking App  
 
 **🚧 Currently Working On**
 - "GitHub Wrapped": a Spotify Wrapped inspired project that gives users insights into their yearly developer activity
