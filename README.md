@@ -6,11 +6,11 @@ Hi, I'm Asmaa, a Computer Engineering student at AUC
 - Tools & Concepts: Git, Qt, Data Structures & Algorithms, Digital Design  
 
 **📌 Featured Projects**
+- "GitHub Wrapped": a Spotify Wrapped inspired project that gives users insights into their yearly developer activity
 - Sudoku Solver (Backtracking)  
 - Quine–McCluskey Logic Minimizer  
 
 **🚧 Currently Working On**
-- "GitHub Wrapped": a Spotify Wrapped inspired project that gives users insights into their yearly developer activity
 
 **🎯 Interests**
 Building logic-driven projects across hardware and software
